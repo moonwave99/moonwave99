@@ -2,12 +2,6 @@
 
 My name is Diego, I am a full-stack software engineer and educator. Here you can find a sample of my personal projects:
 
-## User Interfaces
-
-- [Responsive Grid](https://y0vl1d-3000.csb.app/) - an adaptive grid, fully keyboard navigable
-- [Memory Game](https://ltsuc6.csb.app/) - play Memory in your browser!
-- [Multi-column navigable layout](https://pm52t.csb.app/) - proof of concept for a power-user-friendly interface
-
 ## Libraries
 
 - [waffel](https://moonwave99.github.io/waffel/) - static site generation done tasty
@@ -29,6 +23,9 @@ You can access [my free JavaScript course here](https://moonwave99.github.io/jav
 
 ### React Examples
 
+- [Responsive Grid](https://y0vl1d-3000.csb.app/) - an adaptive grid, fully keyboard navigable
+- [Memory Game](https://ltsuc6.csb.app/) - play Memory in your browser!
+- [Multi-column navigable layout](https://pm52t.csb.app/) - proof of concept for a power-user-friendly interface
 - [Packing List with Edit Mode](https://wxq6rf.csb.app/) - see how to handle more complex state cases
 - [Advanced Search Filters](https://w68shq.csb.app/) - pipe multiple filters over a set of data to display just what you need
 - [Arrange Tasks in status columns](https://m2s3g9.csb.app/) - `groupBy` made visual and editable
