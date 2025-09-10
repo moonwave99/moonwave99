@@ -4,6 +4,7 @@ My name is Diego, I am a full-stack software engineer and educator. Here you can
 
 ## Libraries
 
+-   [test-fs](https://github.com/moonwave99/test-fs) - a tiny filesystem helper test library that creates actual files
 -   [waffel](https://moonwave99.github.io/waffel/) - static site generation done tasty
 -   [goffre](https://moonwave99.github.io/goffre/) - static site generation done tastier
 -   [readme.com](https://github.com/moonwave99/readme.com) - From `README.md` to `index.html` in one touch, ready to be published online
