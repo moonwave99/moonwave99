@@ -51,10 +51,10 @@ Some curated material:
 
 -   [Fretboard.js](https://moonwave99.github.io/fretboard.js/) - a guitar/bass fretboard SVG visualisation
 -   [Playa](https://moonwave99.github.io/playa/) - the music player that thinks in albums
--   [Villalobos Practice Companion](https://villa-lobos-trainer.vercel.app/) - practice the Étude No. 1 with different accents
+-   [Villalobos Practice Companion](https://moonwave99.github.io/villa-lobos-trainer/) - practice the Étude No. 1 with different accents
 -   [Just Noise](https://moonwave99.github.io/justnoise/) - if you need to zone out
 -   [Chord Cirlces](https://moonwave99.github.io/music-experiments/circle-chords) - representation of chord tones
--   [Jazz Trainer](https://two-five-one-trainer.vercel.app/) - practice your comping over a drum track
+-   [Jazz Trainer](https://moonwave99.github.io/two-five-one-trainer/) - practice your comping over a drum track
 -   [FlatFive](https://flatfive.netlify.app/sketch?p=IyBoZWxsbyEKIyBzZWUgdGhlIEhlbHAgc2VjdGlvbiB0byBrbm93IGhvdyB0byB3cml0ZSB5b3VyIHNrZXRjaAprZXk6IEVtCm1ldGVyOiA0LzQKdGl0bGU6IE15IE5ldyBTa2V0Y2gKCiMgd3JpdGUgY2hvcmRzIGJlbG93IG9uIHNlcGFyYXRlIGxpbmVzCkVzdXMyCkFtNgpDIzExCkI3IzUKRW05) - hear piano chord voicings in your browser
 -   [Shoegaze.it](https://shoegaze.netlify.app/en/) - history of the beautiful noise
 -   [Dreampop.it](https://dreampop.it) - history of dreamp-pop music
