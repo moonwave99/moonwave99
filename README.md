@@ -27,7 +27,7 @@ Some curated material:
 ### React Examples
 
 -   [Responsive Grid](https://y0vl1d-3000.csb.app/) - an adaptive grid, fully keyboard navigable
--   [Memory Game](https://ltsuc6.csb.app/) - play Memory in your browser!
+-   [Memory Game](https://github.com/moonwave99/examples/tree/main/react/memory-game) - play Memory in your browser!
 -   [Multi-column navigable layout](https://pm52t.csb.app/) - proof of concept for a power-user-friendly interface
 -   [Packing List with Edit Mode](https://wxq6rf.csb.app/) - see how to handle more complex state cases
 -   [Advanced Search Filters](https://w68shq.csb.app/) - pipe multiple filters over a set of data to display just what you need
@@ -38,8 +38,8 @@ Some curated material:
 
 ---
 
-![Memory Game](./assets/memory_game.png)  
-[Memory Game](https://ltsuc6.csb.app/)
+![Memory Game](https://github.com/moonwave99/examples/blob/main/react/memory-game/screenshot.png)  
+[Memory Game](https://stackblitz.com/github/moonwave99/examples/tree/main/react/memory-game)
 
 ![Accessible form](./assets/accessible_form.png)  
 [Accessible form](https://sst5vx.csb.app/)
