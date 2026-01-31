@@ -28,7 +28,7 @@ Some curated material:
 
 -   [Responsive Grid](https://y0vl1d-3000.csb.app/) - an adaptive grid, fully keyboard navigable
 -   [Memory Game](https://github.com/moonwave99/examples/tree/main/react/memory-game) - play Memory in your browser!
--   [Multi-column navigable layout](https://pm52t.csb.app/) - proof of concept for a power-user-friendly interface
+-   [Multi-column navigable layout](https://github.com/moonwave99/examples/tree/main/react/keyboard-focus-manager) - proof of concept for a power-user-friendly interface
 -   [Packing List with Edit Mode](https://wxq6rf.csb.app/) - see how to handle more complex state cases
 -   [Advanced Search Filters](https://w68shq.csb.app/) - pipe multiple filters over a set of data to display just what you need
 -   [Arrange Tasks in status columns](https://m2s3g9.csb.app/) - `groupBy` made visual and editable
